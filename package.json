@@ -1,0 +1,25 @@
+{
+  "name": "helloexpress",
+  "version": "1.0.0",
+  "description": "My first express js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonnytobin/SSB-03-01.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Jonathan Tobin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonnytobin/SSB-03-01/issues"
+  },
+  "homepage": "https://github.com/jonnytobin/SSB-03-01#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
